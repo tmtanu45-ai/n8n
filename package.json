@@ -132,5 +132,9 @@
       "@lezer/highlight": "patches/@lezer__highlight.patch",
       "v-code-diff": "patches/v-code-diff.patch"
     }
+  "engines": {
+    "node": "22.11.0",
+    "pnpm": "8.15.1"
+}
   }
 }
